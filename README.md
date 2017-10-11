@@ -12,7 +12,7 @@ Environments can be used to separate software components into development tiers 
 
 1. In Bluemix, go to the menu and select the [Schematics dashboard](https://console.bluemix.net/schematics).
 2. In the left navigation menu, select **Templates** to access the template catalog.
-3. Click **Create** on the MongoDB template. You are taken to a configuration page where you can define metadata about your environment. 
+3. Click **Create** on the Redis template. You are taken to a configuration page where you can define metadata about your environment. 
 4. In the **Variables** section:
   a. Set the value of `temp_public_key` to `$SCHEMATICS.SSHKEYPUBLIC` to use the Schematics generated key pair for the environment.
   b. Set the value of `temp_private_key` to `$SCHEMATICS.SSHKEYPRIVATE` to use the Schematics generated key pair for the environment.
