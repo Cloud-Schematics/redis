@@ -39,7 +39,7 @@ Environments can be used to separate software components into development tiers 
 |ssh_user|The provisioning user name.|root|
 |ssh_label|An identifying label to assign to the SSH key.|public ssh key - Schematics VM|
 |ssh_notes|Notes to store with the SSH key.||
-|ssh_key|our public SSH key to use for access to virtual machine.||
+|ssh_key|Your public SSH key to use for access to virtual machine.||
 
 ## Next steps
 
